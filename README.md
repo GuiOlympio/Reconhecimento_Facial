@@ -1,2 +1,2 @@
 # Reconhecimento_Facial
-Este projeto tem como objetivo , fazer um cadastro de pessoas que poçam ter acesso a determinados lugares/Areas/momentos 
+Aplicação desenvolvida para cadastro e controle de acesso individualizado a ambientes, áreas restritas e eventos específicos.
